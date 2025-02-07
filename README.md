@@ -1,10 +1,17 @@
 # FILE-HANDLING-UTILITY
+
 *COMPANY*:CODETECH IT SOLUTIONS
+
 *NAME*:CILUKURI.NEELIMA DURGA
+
 *INTERN ID*:CT6WRBE
+
 *DOMAIN*:JAVA PROGRAMMING
+
 *DURATION*:6 WEEKS
+
 *MENTOR*:NEELA SANTHOSH 
+
 *DESCRIPTION*:
 File Handling Utility in Java:
 A file handling utility is a fundamental tool that allows users to read, write, and modify text files. Java provides a robust set of file handling capabilities through classes like File, FileReader, FileWriter, and BufferedReader. This project aims to create a Java-based utility that performs essential file operations while ensuring efficiency, reliability, and clarity in documentation.
